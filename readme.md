@@ -1,68 +1,34 @@
-# Bootcampo Microsoft - Microsoft Copilot AI
+# Formação .NET Developer
 ###### DIO.
 
-## MODULO 01: Fundamentos de Inteligência Artifical (IA) e GitHub Copilot
+## MODULO 01: Fundamentos .NET
+
+###### Curso 1: Introdução ao .NET
 ---
-###### Curso 1: Bem-Vindo à Experiência Microsoft IA Copilot
-
-Bem-Vindo à Experiência Microsoft IA Copilot
-
-Aula introdutória de apresentação e overview acerca do assunto IA Generativa.
-
-###### Curso 2: Introdução Á Inteligência Artificial
-
-Introdução Á Inteligência Artificial
-
-Principais áreas de atuação das IA:
-* Machine Learning    
-* Visão computacional
-* NLP
-* Robótica
-
-Um pouco da história da Inteligência artificial
-
-    Alan Turin iniciou com o teste de Turin.
-
-    Marvin Misk o pai da IA
-
-Certifique seu conhecimento
-
+###### Curso 2: Introdução as IDEs e Configuração de Ambiente .NET
+---
+###### Curso 3: Sintaxe e Tipos de Dados em C#
+---
+###### Curso 4: Tipos de Operadores em C#
+---
+###### Curso 5: Operadores Aritiméticos em C#
+---
+###### Curso 6: Conhecendo as Estruturas de Repetição em C#
+---
+###### Curso 7: 
+---
+###### Curso 8: 
+---
+###### Curso 9: 
+---
+###### Curso 10: 
+---
+###### Curso 11: 
+---
+###### Curso 12: 
 ---
 
-###### Curso 3: Aplicações e Impacto da IA no Mundo Real
 
-Aplicações e Impacto da IA no Mundo Real
-
-IA no seu dia a dia
-
-Os modelos de algoritmos de IA
-
-* Algoritimo de Aprendizado Supervisionado
-* Algoritimo de Aprendizado não Supervisionado
-* Algoritimo de Aprendizado por Reforço
-
-
-Visão computacional
-
-
-Linguagem Natural
-
-Robótica
-
-Certifique seu conhecimento
-
----
-###### Curso 4: Versionamento de Código com Git e GitHub
----
-###### Curso 5: Desafios de Projetos: Crie Um Portfólio Vencedor
----
-###### Curso 6: Contribuindo em um Projeto Open Source no GitHub
----
-###### Curso 7: Fundamentos de Inteligência Artifical (IA) e GitHub Copilot
-
-    Conclusão do Módulo 1.
-
----
 ## MODULO 02: Desafios e Aplicações Práticas das IAs Generativas
 ---
 ###### Curso 1: Aplicações Práticas da Inteligência Artificial
