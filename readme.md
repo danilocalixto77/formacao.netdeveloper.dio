@@ -31,7 +31,7 @@
 
 ## MODULO 02: Explorando a linguagem C#
 ---
-###### Curso 1: Aplicações Práticas da Inteligência Artificial
+###### Curso 1: Aplicações ...........
 
 Introdução e Apresentação
 
@@ -46,7 +46,7 @@ Introdução e Apresentação
 
 ## MODULO 04: Bancos de Dados Relacionais e Não relacionais com SQL Server e MongoDB
 ---
-###### Curso 1: Aplicações Práticas da Inteligência Artificial
+###### Curso 1: Aplicações ...........
 Introdução e Apresentação
 
 - Introdução e Apresentação
