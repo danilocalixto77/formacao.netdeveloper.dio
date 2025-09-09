@@ -15,11 +15,25 @@
 ---
 ###### Curso 6: Conhecendo as Estruturas de Repetição em C#
 ---
-###### Curso 7: 
+###### Curso 7: Conhecendo a Organização de um Programa C#
 ---
-###### Curso 8: 
+###### Curso 8: Array e Listas em C#
 ---
-###### Curso 9: 
+###### Curso 9: Comentário e Boas Práticas em C#
+
+- Introdução aos comentários
+
+- Comentários de linha única
+
+- Comentário de múltiplas linhas
+
+- 
+
+2. 
+
+
+
+
 ---
 ###### Curso 10: 
 ---
