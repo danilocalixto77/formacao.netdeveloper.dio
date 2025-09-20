@@ -21,15 +21,52 @@
 ---
 ###### Curso 9: Comentário e Boas Práticas em C#
 
+1. Comentários e boas práticas
+
 - Introdução aos comentários
 
 - Comentários de linha única
 
+        //Duas barras seguidas
+
 - Comentário de múltiplas linhas
 
-- 
+        /*
+        Comentando código entre 
+        barra e asterisco e
+        fecha com asterico barra
+        */
 
-2. 
+- Comentando nossas classes
+
+        Habibilitar no VSCode a opção: [X]Editor: Format on Type
+
+        Após habilitado digite 3 barras, logo acima da classe:
+
+        ///<sumary>
+        /// Inserir comentário
+        ///</sumary>
+        public class Pessoa
+
+- Comentário nos métodos
+
+        ///<sumary>
+        /// Faz a pessoa se apresentar
+        ///</sumary>
+        public class Apresentar()
+
+
+        Métodos com parâmetros ao colocar o <sumary> a ide trás os parâmetros do método.
+
+- Condiderações finais
+
+2. Materiais de apoio e Questionário
+
+- Material de apoio
+
+- Quiz - Comentários e boas práticas
+
+
 
 
 
