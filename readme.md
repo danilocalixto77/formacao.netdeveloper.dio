@@ -65,20 +65,16 @@
 - Material de apoio
 
 - Quiz - Comentários e boas práticas
-
-
-
-
-
-
----
-###### Curso 10: 
----
-###### Curso 11: 
----
-###### Curso 12: 
 ---
 
+###### Curso 10: Construindo um Sistema para um Estacionamento com C#
+---
+
+###### Curso 11: Desafios Básicos de C# - Formação .NET
+---
+
+###### Curso 12: Materiais Complementares: Fundamento de .NET
+---
 
 ## MODULO 02: Explorando a linguagem C#
 ---
