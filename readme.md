@@ -77,12 +77,45 @@
 ---
 
 ## MODULO 02: Explorando a linguagem C#
+
+###### Curso 1: Propriedades, Mètodos e Construtors com C#
 ---
-###### Curso 1: Aplicações ...........
 
-Introdução e Apresentação
+###### Curso 2: Manipulando Valores com C#
+---
 
-- Introdução e Apresentação
+###### Curso 3: Exceções e Coleções com C#
+---
+
+###### Curso 4: Tuplas, Operador Ternario e Descontrução de um Objeto com C#
+---
+
+###### Curso 5: Nuget, Serializar e Atributos no C#
+---
+
+###### Curso 6: Tipos Especiais no C#
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## MODULO 03: Programação Orientada a Objetos com C#
 ---
