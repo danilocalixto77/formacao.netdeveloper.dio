@@ -95,6 +95,54 @@
 
 ###### Curso 6: Tipos Especiais no C#
 
+1. Tipos especiais no C#
+
+- Introdução e tipos de valores nulos
+
+- Tipos nulos na prática
+
+- Tipos nulos em propriedades
+
+- Tipos anônimos
+
+- Tipos anônimos em coleção
+
+- Tipo dinâmico
+
+        dinamic variavelDianmica = 4;
+
+        Console.WriteLine($"Tipo de variável: {variavelDianmica.GetType()}, Valor: {variavelDinamica}");
+
+        dinamic variavelDianmica = "Texto";
+
+        Console.WriteLine($"Tipo de variável: {variavelDianmica.GetType()}, Valor: {variavelDinamica}");
+
+
+        dinamic variavelDianmica = true;
+
+        Console.WriteLine($"Tipo de variável: {variavelDianmica.GetType()}, Valor: {variavelDinamica}");
+
+
+
+
+--- Itrodução classes genéricas
+
+--- Criando uma classe genérica
+
+--- Tetando nossa classe genérica
+
+--- Métodos de extensão
+
+--- Finalização
+
+2. Materiais de apoio e Questionário
+
+--- Materiais de apoio
+
+--- Quiz - Tipos especiais no C#
+
+
+
 
 
 
