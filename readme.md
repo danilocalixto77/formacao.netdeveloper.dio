@@ -123,48 +123,60 @@
         Console.WriteLine($"Tipo de variável: {variavelDianmica.GetType()}, Valor: {variavelDinamica}");
 
 
+- Itrodução classes genéricas
 
+  - Uma lista é um exemplo de uma classe genérica, na qual permite tipar com um coleção de dados iguais, mas ao tipar, pode ser definidio diversos tipos. Na tipagem de uma Lista ou Array deve ser:
+  
+        <T> 
 
---- Itrodução classes genéricas
+- Criando uma classe genérica
 
---- Criando uma classe genérica
+- Testando nossa classe genérica
 
---- Tetando nossa classe genérica
+- Métodos de extensão
 
---- Métodos de extensão
-
---- Finalização
+- Finalização
 
 2. Materiais de apoio e Questionário
 
---- Materiais de apoio
+- Materiais de apoio
 
---- Quiz - Tipos especiais no C#
+- Quiz - Tipos especiais no C#
+---
 
+###### Curso 7: Stack, Heap e Garbage Collector no C#
 
+1. Stack, Heap e Garbage Collector
 
+- Introdução de memória
 
+- Entendendo a Stack e Heap
 
+- Limpeza de memória
 
+- Atribuições de tipos
 
+- Atribuindo tipo de referência
+
+- Atribuindo tipo de valor
+
+- Finalização
+
+2. Materiais de apoio e Questionário
+
+- Materiais de apoio
+
+- Quiz - Stack, Heap e Garbage Collector
 ---
 
 
+###### Curso 8: Construindo um Sistema de Hospedagem de um Hotel no C#
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+###### Curso 9: Deafios Intermediários C# I - Formação .NET
+---
+###### Curso 10: Materiais complementares: Explorando a Liguagem C#
+---
 ## MODULO 03: Programação Orientada a Objetos com C#
 ---
 ###### Curso 1: Aplicações Práticas da Inteligência Artificial
